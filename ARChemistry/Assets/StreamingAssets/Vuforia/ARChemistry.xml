@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="beaker" size="1.000000 1.158416" />
+    <ImageTarget name="Sodium" size="1.000000 0.709382" />
+    <ImageTarget name="Phosphorus" size="1.000000 0.709382" />
+    <ImageTarget name="Oxygen" size="1.000000 0.709382" />
+    <ImageTarget name="Hydrogen" size="1.000000 0.709382" />
+    <ImageTarget name="Chloride" size="1.000000 0.709382" />
+  </Tracking>
+</QCARConfig>
